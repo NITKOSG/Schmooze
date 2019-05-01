@@ -1,4 +1,7 @@
 # Schmooze
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NITKOSG/Schmooze.svg)](https://greenkeeper.io/)
+
 An real time multi-platform, multi-channel web app for online Discussion and Learning. The project is aimed to conduct the online group sessions for students  of the National Institute of Technology, Kurukshetra.
 <h2>The project have:</h2>
 
